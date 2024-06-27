@@ -30,6 +30,9 @@ public class SafeCracker {
 		 * combinations
 		 */		
 
+		
+		
+		
 	}
 
 	 void tryCode(int guess) {
